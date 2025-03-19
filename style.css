@@ -1,4 +1,4 @@
-*{ margin-top: 10px;
+*{ margin-top: 20px;
     margin-right: 0;
     padding: 0;
     box-sizing: border-box;
@@ -16,7 +16,7 @@
   
   h1 span {
     font-weight: lighter;
-    border: 8px solid green;
+    border: 10px solid green;
    
   }
   
@@ -36,7 +36,7 @@
   
   
   .gallery img {
-    margin-top: 30px;
+    margin-top:   10px;
     vertical-align: middle;
      width: 100%;
      /* margin-left: 10px;
