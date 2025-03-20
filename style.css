@@ -1,5 +1,4 @@
 *{ margin-top: 20px;
-    margin-right: 0;
     padding: 0;
     box-sizing: border-box;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -23,21 +22,21 @@
   
   .container {width: 100%;
   display: flex; 
-  justify-content: center;
-  align-items: center;
+  /* justify-content: center;
+  align-items: center; */
   }
   
   
   .gallery {display: grid;
     /* grid-gap: 2rem; */
-    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     gap: 10px;
   }
   
   
   .gallery img {
     margin-top:   10px;
-    vertical-align: middle;
+    /* vertical-align: middle; */
      width: 100%;
      /* margin-left: 10px;
      margin-right: 10px; */
